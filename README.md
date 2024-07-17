@@ -1,7 +1,12 @@
-## Hi there 👋
+## Hi, I'm Rushik Ghuntala 👋🏻
 
+- 📍 I live in Gujarat, India
+- I am currently working with technologies based on Javascript. Technologies such as ReactJS, NextJS, NodeJS.
+- I usually work with design systems and ui-component based react projects and make complex and beautiful components.
+- I do Product Design, Frontend Development, UI Engineering, Design Systems Engineering and Design related stuff.
+- My Tech Stack: NextJS, Redis, TypeScript, Tailwind, MERN, Supabase, PostgreSQL, Figma.
+- Languages I know: JavaScript, TypeScript, Python, Java, C++.
 
-**Rushik-Ghuntala/Rushik-Ghuntala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -30,3 +35,6 @@ Here are some ideas to get you started:
     <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rushik-Ghuntala&theme=radical&layout=compact"/>
   </a>
 </div>
+
+## Connect with me: [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pranaygupta.aec@gmail.com)](mailto:rushisoni2003@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thepranaygupta/)](https://linkedin.com/in/rushik-ghuntala-4a165222a/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/Rushik_Soni_) [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/901117080533889054)
+
