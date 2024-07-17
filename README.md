@@ -1,8 +1,31 @@
-## Hi, I'm Rushik Ghuntala 👋🏻
-
 <h1 align="center">
-  <img src="https://github.com/rushik-ghuntala/rushik-ghuntala/main/name.svg" alt="Marton Lederer" />
+  <img src="https://github.com/Rushik-Ghuntala/Rushik-Ghuntala/blob/main/name.svg" alt="Rushik Ghuntala" />
 </h1>
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/rushik-ghuntala-4a165222a/">
+      <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rushik-ghuntala-4a165222a/" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://x.com/Rushik_Soni_">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+    <div>
+      <img src="https://komarev.com/ghpvc/?username=Rushik-Ghuntala&style=flat-square&color=ff69b4" alt=""/>
+    </div>
+  </div>
+</div>
+
+<hr/>
+
+<h2> 💼 Portfolio : 
+  <a href="https://rushik-ghuntala-portfolio.vercel.app/">
+    Rushik Ghuntala's Portfolio
+  </a>
+</h2>
+
+<hr/>
 
 - 📍 I live in Gujarat, India
 - I am currently working with technologies based on Javascript. Technologies such as ReactJS, NextJS, NodeJS.
@@ -11,25 +34,8 @@
 - My Tech Stack: NextJS, Redis, TypeScript, Tailwind, MERN, Supabase, PostgreSQL, Figma.
 - Languages I know: JavaScript, TypeScript, Python, Java, C++.
 
+<hr/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rushik-Ghuntala&theme=radical&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rushik-Ghuntala&theme=radical&rank_icon=github)
-
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rushik-Ghuntala&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)       
 <h2>Stats</h2>
 <div style="display: flex; flex-direction: row; justify-content: space-between;">
   <a href="https://github.com/Rushik-Ghuntala">
