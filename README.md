@@ -20,7 +20,7 @@
 <hr/>
 
 <h2> 💼 Portfolio : 
-  <a href="https://rushik-ghuntala-portfolio.vercel.app/">
+  <a href="https://rushik-ghuntala-portfolio.vercel.app/" target="_blank">
     Rushik Ghuntala's Portfolio
   </a>
 </h2>
