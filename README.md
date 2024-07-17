@@ -1,5 +1,9 @@
 ## Hi, I'm Rushik Ghuntala 👋🏻
 
+<h1 align="center">
+  <img src="https://github.com/rushik-ghuntala/rushik-ghuntala/main/name.svg" alt="Marton Lederer" />
+</h1>
+
 - 📍 I live in Gujarat, India
 - I am currently working with technologies based on Javascript. Technologies such as ReactJS, NextJS, NodeJS.
 - I usually work with design systems and ui-component based react projects and make complex and beautiful components.
